@@ -106,10 +106,3 @@ The complete project report is available in the **report/** folder.
 
 ---
 
-## ✅ Submission Note
-
-This repository includes all the required components of the project, including task files, supporting materials, and the final report, in accordance with the course requirements.
-
----
-
-If you want to level this up further, next step would be adding **badges, screenshots, and preview images** — that’s what makes a README stand out.
